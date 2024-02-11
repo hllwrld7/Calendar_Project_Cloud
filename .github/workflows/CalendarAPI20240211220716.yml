@@ -5,7 +5,7 @@ on:
     - main
 env:
   AZURE_WEBAPP_NAME: CalendarAPI20240211220716
-  AZURE_WEBAPP_PACKAGE_PATH: CalendarAPI\publish
+  AZURE_WEBAPP_PACKAGE_PATH: Calendar_project\CalendarAPI\publish
   AZURE_APIM_RESOURCE_PATH: /
   AZURE_APIM_RESOURCEGROUP: CalendarAPI20240211220716ResourceGroup
   AZURE_APIM_SERVICENAME: CalendarAPI
@@ -13,7 +13,7 @@ env:
   AZURE_APIM_APPSERVICEURL: https://calendarapi20240211220716.azurewebsites.net
   SWASHBUCLE_ASPNET_CORE_CLI_PACKAGE_VERSION: 5.6.3
   SWASHBUCKLE_DOTNET_CORE_VERSION: 3.1.x
-  API_IMPORT_SPECIFICATION_PATH: CalendarAPI\publish\swagger.json
+  API_IMPORT_SPECIFICATION_PATH: Calendar_project\CalendarAPI\publish\swagger.json
   API_IMPORT_DLL: Calendar_project\CalendarAPI\bin\Release\net6.0-windows10.0.17763.0\CalendarAPI.dll
   API_IMPORT_VERSION: v1
   CONFIGURATION: Release

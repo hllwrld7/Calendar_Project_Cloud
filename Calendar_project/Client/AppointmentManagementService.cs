@@ -8,7 +8,7 @@ namespace Client
     {
         private List<Appointment> _appointmentList = new List<Appointment>();
         private readonly HttpClient _httpClient;
-        private readonly string _apiUrl = "https://localhost:5001";
+        private readonly string _apiUrl = "https://calendarapi20240211220716.azurewebsites.net";
 
         public AppointmentManagementService() 
         {

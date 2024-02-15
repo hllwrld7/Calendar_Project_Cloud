@@ -11,7 +11,7 @@ A calendar project for my IoT and Cloud Computing classes.
 	- [Adding a contact](#adding-contact)
 	- [Editing a contact](#editing-contact)
 	- [Deleting a contact](#deleting-contact)
- 
+
 ## About
 This is a project made with ASP .NET Web API as a backend deployed in Azure Cloud with a WinForms frontend. The data is saved in an SQLite database.
 

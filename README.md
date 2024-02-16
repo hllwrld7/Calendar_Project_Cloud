@@ -16,7 +16,7 @@ A calendar project for my IoT and Cloud Computing classes.
 This is a project made with ASP .NET Web API as a backend deployed in Azure Cloud with a WinForms frontend. The data is saved in an SQLite database.
 
 ## How to use
-Build the Client project OR download the latest frontend artifacts and run Client.exe, it is the frontend and you can use it to schedule appointments and make a contact list. Swagger is available at https://calendarapi20240211220716.azurewebsites.net/swagger/index.html.
+Build the Client project OR download the latest client artifacts, unpack the folder and run Client.exe, it is the frontend and you can use it to schedule appointments and make a contact list. Swagger is available at https://calendarapi20240211220716.azurewebsites.net/swagger/index.html.
 
 ## Calendar
 
